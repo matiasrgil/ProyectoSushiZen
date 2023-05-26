@@ -1,0 +1,115 @@
+body {
+  background-color: #f2f2f2 !important;
+}
+
+#navbarZen {
+  background-color: #1c5052 !important;
+  margin: 0;
+}
+
+.contNavStyle {
+  background-color: #1c5052;
+  display: flex;
+  flex-direction: row;
+}
+
+#navbarNav {
+  text-align: center;
+}
+
+header {
+  color: #348e91;
+}
+
+header p {
+  color: #1c5052;
+}
+
+.imgLogo {
+  border-radius: 50%;
+}
+
+.sectMenu {
+  background-color: #80b6b8;
+  z-index: 0;
+  border: 1px solid #80b6b8;
+}
+
+#menu {
+  background-color: #f2f2f2;
+  border-radius: 5%;
+  color: #1c5052;
+}
+
+.contDivMenu {
+  display: flex;
+  justify-content: center;
+}
+
+.contDivMenu h2 {
+  color: #1c5052;
+}
+
+.contDivMenu div {
+  width: 90%;
+  display: flex;
+  justify-content: center;
+  flex-wrap: nowrap;
+  align-items: center;
+  margin: 0.25rem 0;
+  padding: 0 2rem;
+  border: #1c5052 solid 1px;
+  border-radius: 1rem;
+}
+
+.contDivMenu p {
+  margin: 0;
+  padding: 0;
+}
+
+.contDivMenu img {
+  width: 5rem;
+  height: 2.5rem;
+}
+
+#reviews {
+  background-color: #80b6b8;
+  border: 1px solid #80b6b8;
+}
+
+#reviews h2 {
+  color: #1c5052 !important;
+}
+
+#reviews p {
+  color: #1c5052;
+}
+
+.rowTarjetas {
+  background-color: #80b6b8;
+}
+
+#reviews .contTarjetas {
+  background-color: #80b6b8;
+}
+
+#reviews .tarjetas {
+  border-radius: 30%;
+  background-color: #80b6b8;
+}
+
+.tarjeta {
+  background-color: #f2f2f2;
+  border-radius: 10%;
+}
+
+#contact {
+  background-color: #1c5052;
+  border: 1px solid #80b6b8;
+  text-align: center;
+  color: #80b6b8;
+}
+
+#contact h2 {
+  color: #348e91;
+}
